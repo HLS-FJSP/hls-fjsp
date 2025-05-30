@@ -1,0 +1,29 @@
+file_path: experiment/datasets/fjsp.barnes.setb4x.m11j15c2.txt
+Total time: 5993
+Total time: 1317
+Total time: 1284
+Total time: 1284
+Total time: 1266
+Total time: 1266
+Total time: 1266
+Total time: 1266
+Total time: 1266
+Total time: 1266
+Total time: 1266
+Total time: 1266
+Total time: 1266
+Total time: 1266
+Total time: 1266
+Total time: 1266
+Total time: 1266
+Total time: 1266
+Total time: 1266
+Total time: 1266
+Total time: 1266
+Total time: 1266
+Total time: 1266
+Total time: 1266
+Total time: 1266
+Total time: 1266
+Time cost: 2707s
+

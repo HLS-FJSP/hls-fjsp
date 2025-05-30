@@ -1,0 +1,33 @@
+file_path: experiment/datasets/fjsp.brandimarte.Mk05.m4j15c2.txt
+Total time: 528
+Total time: 214
+Total time: 199
+Total time: 193
+Total time: 193
+Total time: 193
+Total time: 193
+Total time: 193
+Total time: 187
+Total time: 187
+Total time: 187
+Total time: 187
+Total time: 187
+Total time: 187
+Total time: 187
+Total time: 187
+Total time: 187
+Total time: 187
+Total time: 187
+Total time: 187
+Total time: 187
+Total time: 187
+Total time: 187
+Total time: 187
+Total time: 187
+Total time: 187
+Total time: 187
+Total time: 187
+Total time: 187
+Total time: 187
+Time cost: 1510s
+

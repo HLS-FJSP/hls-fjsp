@@ -1,0 +1,36 @@
+file_path: experiment/datasets/fjsp.dauzere.15a.m10j20c10.txt
+Total time: 15841
+Total time: 4094
+Total time: 4028
+Total time: 4028
+Total time: 3960
+Total time: 3840
+Total time: 3840
+Total time: 3741
+Total time: 3648
+Total time: 3648
+Total time: 3648
+Total time: 3648
+Total time: 3620
+Total time: 3594
+Total time: 3569
+Total time: 3536
+Total time: 3536
+Total time: 3536
+Total time: 3519
+Total time: 3513
+Total time: 3513
+Total time: 3504
+Total time: 3471
+Total time: 3471
+Total time: 3467
+Total time: 3467
+Total time: 3462
+Total time: 3458
+Total time: 3443
+Total time: 3443
+Total time: 3434
+Total time: 3412
+Total time: 3412
+Time cost: 30093s
+

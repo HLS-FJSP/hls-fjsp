@@ -1,0 +1,29 @@
+file_path: experiment/datasets/fjsp.barnes.mt10xyz.m13j10c2.txt
+Total time: 2790
+Total time: 1110
+Total time: 1109
+Total time: 1096
+Total time: 1087
+Total time: 1087
+Total time: 1087
+Total time: 1087
+Total time: 1087
+Total time: 1087
+Total time: 1087
+Total time: 1087
+Total time: 1087
+Total time: 1087
+Total time: 1087
+Total time: 1087
+Total time: 1087
+Total time: 1087
+Total time: 1087
+Total time: 1087
+Total time: 1087
+Total time: 1087
+Total time: 1087
+Total time: 1087
+Total time: 1087
+Total time: 1087
+Time cost: 1034s
+

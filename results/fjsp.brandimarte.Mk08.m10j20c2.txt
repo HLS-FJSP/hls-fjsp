@@ -1,0 +1,35 @@
+file_path: experiment/datasets/fjsp.brandimarte.Mk08.m10j20c2.txt
+Total time: 2154
+Total time: 615
+Total time: 614
+Total time: 583
+Total time: 579
+Total time: 577
+Total time: 576
+Total time: 576
+Total time: 576
+Total time: 571
+Total time: 566
+Total time: 566
+Total time: 566
+Total time: 566
+Total time: 566
+Total time: 566
+Total time: 566
+Total time: 566
+Total time: 566
+Total time: 566
+Total time: 566
+Total time: 566
+Total time: 566
+Total time: 566
+Total time: 566
+Total time: 566
+Total time: 566
+Total time: 566
+Total time: 566
+Total time: 566
+Total time: 566
+Total time: 566
+Time cost: 7101s
+
